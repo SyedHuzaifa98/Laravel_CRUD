@@ -1,0 +1,18 @@
+form{
+    width: 400px;
+    margin: 0 auto;
+}
+input{
+    width: 400px !important;
+    border-radius: 20px !important;
+    padding-left: 20px !important;
+}
+#search{
+    margin:0 auto !important;
+    margin-top: 4% !important;
+    margin-bottom: 1% !important;
+    display: flex !important;
+}
+a{
+    float: right !important;
+}
