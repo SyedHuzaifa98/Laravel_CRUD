@@ -74,3 +74,15 @@ then run app using php artisan serve command
 
 
 
+![image](https://user-images.githubusercontent.com/50304066/219976251-50b3a03c-ea71-4a2e-908c-564867994229.png)
+
+
+
+![image](https://user-images.githubusercontent.com/50304066/219976263-7082ff17-8808-4f9d-8727-abff909cc613.png)
+
+
+![image](https://user-images.githubusercontent.com/50304066/219976288-a07f02cc-99c5-42a8-ba12-11485d77dc60.png)
+
+
+![image](https://user-images.githubusercontent.com/50304066/219976303-b0f96db6-ee42-48ba-9cc6-c8006caa6eea.png)
+
