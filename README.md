@@ -64,3 +64,13 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+
+Installation
+
+To run this first create database on localhost e.g phpmyadmin name '24dec' then import file 'CRUD_Laravel.sql' in it.
+then run app using php artisan serve command
+
+
+
