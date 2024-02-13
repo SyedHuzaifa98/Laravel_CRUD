@@ -26,3 +26,8 @@ Route::post('/dataupdatesubmit',[EmployeeController::class,'updatedata']);
 Route::get('/datadelete/{id}',[EmployeeController::class,'delete_data']);
 
 Route::get('/search',[EmployeeController::class,'search']);
+
+
+Route::get('/sayHello',function(){
+    return "Hello";
+});
